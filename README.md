@@ -4,7 +4,7 @@
 
 End-to-end sales funnel analysis project tracking customer journey from leads to contracts to identify conversion gaps and improve sales efficiency.
 
-Tools Used: Power BI, SQL
+Tools Used: Power BI, PostgreSQL
 
 What was done:
 
